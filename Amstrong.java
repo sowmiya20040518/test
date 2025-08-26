@@ -5,6 +5,8 @@ public class Amstrong{
         int n=obj.nextInt();
         int k=n;
         int count=0;
+
+
         while(k!=0){
             count++;
             k=k/10;
